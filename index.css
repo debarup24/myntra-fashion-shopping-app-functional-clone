@@ -245,9 +245,7 @@ padding-bottom: 5px;
  display: flex;
  flex-wrap: wrap;
  justify-content: space-evenly;
- /* display: flex;
- flex-wrap: wrap;
- justify-content: space-evenly; */
+ 
 }
 
 .item-container {
